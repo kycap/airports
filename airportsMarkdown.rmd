@@ -1,6 +1,8 @@
 ---
 title: "Airport Map"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 Attempting to explore the R language's spatial functionality as well as using markdown.
 
